@@ -1,4 +1,7 @@
 {
+  "homepage": "https://ahsansportfolio.github.io/webportfolio",
+  "name": "webportfolio",
+  "private": true,
   "files": {
     "main.css": "/react-gh-pages/static/css/main.7a302bc1.css",
     "main.js": "/react-gh-pages/static/js/main.c0fa9076.js",
